@@ -1,0 +1,53 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-typescript": "^7.22.15",
+    "@griffel/babel-preset": "./griffel3/griffel-babel-preset-1.4.20.tgz",
+    "@griffel/core": "./griffel3/griffel-core-1.14.1.tgz",
+    "@griffel/linaria-processor": "./griffel3/griffel-linaria-processor-0.0.1.tgz",
+    "@griffel/react": "./griffel3/griffel-react-1.5.14.tgz",
+    "@griffel/style-types": "./griffel3/griffel-style-types-1.0.1.tgz",
+    "@griffel/webpack-loader": "./griffel3/griffel-webpack-loader-2.1.20.tgz",
+    "@linaria/babel-preset": "./linaria25/linaria-babel-preset-4.5.4.tgz",
+    "@linaria/core": "./linaria25/linaria-core-4.5.4.tgz",
+    "@linaria/logger": "./linaria25/linaria-logger-4.5.0.tgz",
+    "@linaria/shaker": "./linaria25/linaria-shaker-4.5.3.tgz",
+    "@linaria/tags": "./linaria25/linaria-tags-4.5.4.tgz",
+    "@linaria/utils": "./linaria25/linaria-utils-4.5.3.tgz",
+    "@linaria/webpack-loader": "./linaria25/linaria-webpack-loader-4.5.4.tgz",
+    "@linaria/webpack4-loader": "./linaria25/linaria-webpack4-loader-4.5.4.tgz",
+    "@linaria/webpack5-loader": "./linaria25/linaria-webpack5-loader-4.5.4.tgz",
+    "fast-json-stringify": "2.7.13",
+    "happy-dom": "10.8.0",
+    "prettier": "^3.0.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "resolutions": {
+    "fast-json-stringify": "2.7.13",
+    "ajv": "6.12.6",
+    "@griffel/style-types": "./griffel3/griffel-style-types-1.0.1.tgz",
+    "@griffel/core": "./griffel3/griffel-core-1.14.1.tgz",
+    "@griffel/react": "./griffel3/griffel-react-1.5.14.tgz",
+    "@griffel/linaria-processor": "./griffel3/griffel-linaria-processor-0.0.1.tgz",
+    "@griffel/babel-preset": "./griffel3/griffel-babel-preset-1.4.20.tgz",
+    "@griffel/webpack-loader": "./griffel3/griffel-webpack-loader-2.1.20.tgz",
+    "@linaria/babel-preset": "./linaria25/linaria-babel-preset-4.5.4.tgz",
+    "@linaria/core": "./linaria25/linaria-core-4.5.4.tgz",
+    "@linaria/logger": "./linaria25/linaria-logger-4.5.0.tgz",
+    "@linaria/shaker": "./linaria25/linaria-shaker-4.5.3.tgz",
+    "@linaria/tags": "./linaria25/linaria-tags-4.5.4.tgz",
+    "@linaria/utils": "./linaria25/linaria-utils-4.5.3.tgz",
+    "@linaria/webpack-loader": "./linaria25/linaria-webpack-loader-4.5.4.tgz",
+    "@linaria/webpack4-loader": "./linaria25/linaria-webpack4-loader-4.5.4.tgz",
+    "@linaria/webpack5-loader": "./linaria25/linaria-webpack5-loader-4.5.4.tgz"
+  }
+}
